@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @whbak
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning ... Cyclic & Github.
+
+If you would like to view code of my projects, let me know.
+
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
