@@ -7,7 +7,7 @@ My hobbies are motorcycling, fitness, scuba diving and my two private websites.
 
 If you would like to view code of my projects, let me know.
 I consists of:
-- a PHP Todo Framework build by myself
+- PHP Todo Framework build by myself
 - Laravel todo with login and two tables
 - Films and series PHP MySQL database application
 - JavaScript-todo
