@@ -5,7 +5,7 @@
 I am a certified Full Stack Developer PHP and a Laravel 8 fan.
 My hobbies are motorcycling, fitness, scuba diving and my two private websites.
 
-If you would like to view code of my projects, let me know.
+If you would like to view code of my projects, please do.
 I consists of:
 - Laravel todo with login and two tables
 - PHP Todo Framework build by myself
@@ -16,7 +16,7 @@ I consists of:
 - JavaScript NS random JSON API fetch
 - JavaScript todo with localStorage
 
-They are 'private', so let me know on linkedin if you are interested.
+They are 'public'.
 
 - 💞️ I’m looking to collaborate on a new job, if you happen to have it for me.
 - 📫 How to reach me? www.linkedin.com/in/wimsbezels
