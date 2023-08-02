@@ -2,7 +2,7 @@
 
 - 🌱 I started using GitHub for pushing ... Cyclic & Github
 
-I am a certified Full Stack Developer PHP and a Laravel 8 fan.
+I am a PHP, JavaScript and Laravel 8 fan.
 My hobbies are motorcycling, fitness, scuba diving and my two private websites.
 
 If you would like to view code of my projects, please do.
